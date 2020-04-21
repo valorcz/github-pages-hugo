@@ -1,0 +1,14 @@
+baseURL: https://valorcz.github.io/
+footnoteReturnLinkContents: ↩
+params:
+  AuthorName: Vašek Lorenc
+  GitHubUser: valorcz
+  SidebarRecentLimit: 5
+  Subtitle: Brain Dump
+  #  BookMenuBundle: /menu
+  BookComments: false
+permalinks:
+  posts: /:year/:month/:title/
+title: Unsorted Stuff
+theme: book
+# enableGitInfo: true
