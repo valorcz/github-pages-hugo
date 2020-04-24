@@ -1,5 +1,5 @@
 ---
-title: 2018-November-Newsletter
+title: 2018-November
 ---
 
 # Long time, no see…

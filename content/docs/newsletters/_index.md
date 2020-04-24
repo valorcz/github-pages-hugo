@@ -1,6 +1,5 @@
 ---
-bookFlatSection: true
+bookFlatSection: false
 title: "Irregular Security Newsletters"
 ---
 
-Let there be light!

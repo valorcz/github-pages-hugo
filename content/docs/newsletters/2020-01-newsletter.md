@@ -1,7 +1,9 @@
 ---
-title: "2020-January-Newsletter"
+title: "2020-January"
 author: "Vašek Lorenc"
 ---
+
+# A Very Long Good Bye
 
 >  _“I didn’t have time to write a short letter, so I wrote a long one instead.”_  
 >  ― Mark Twain  
