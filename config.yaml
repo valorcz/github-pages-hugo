@@ -10,5 +10,6 @@ params:
 permalinks:
   posts: /:year/:month/:title/
 title: Unsorted Stuff
-theme: book
+theme: 
+  - book
 # enableGitInfo: true
