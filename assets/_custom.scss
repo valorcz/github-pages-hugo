@@ -1,11 +1,12 @@
 @import "plugins/_numbered.scss";
+@import "plugins/_scrollbars.scss";
 
 .markdown code {
    font-size: 80%;
    color: #c7254e;
    background: #f9f2f4;
    // dark version of the theme
-   background: #542633;
-   color: #f18ba5;
+   // background: #542633;
+   // color: #f18ba5;
 }
 
